@@ -17,4 +17,5 @@
 > solicitada uma nova entrada. **Somente o valor 0 encerra o programa!**
 > O programa só aceitará a entrada de valores inteiros, caso o usuário entre com o valor
 > que não possa ser convertido para inteiro, ex: texto ou reais, o programa irá retornar
-> uma mensagem de valor inserido inválido. O programa também não aceita valores negativos
+> uma mensagem de valor inserido inválido e programa também não aceita valores negativos.
+> A função de desafio foi implementada no arquivo funcao.dart
